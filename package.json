@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "4.0.6",
-    "hono": "4.9.7",
+    "hono": "4.10.2",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "react-server-dom-webpack": "19.0.0",
